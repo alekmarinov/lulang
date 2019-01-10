@@ -1,0 +1,7 @@
+
+a="alek"; b="balek";
+function deeba(arg1, arg2)
+	arg1=arg1+arg2;
+	return arg1;
+end
+
